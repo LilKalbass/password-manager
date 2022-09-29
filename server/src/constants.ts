@@ -1,0 +1,1 @@
+export const DB_Connection:string = process.env.DB_Connection || 'mongodb://localhost:27017/password-manager'
